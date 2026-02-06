@@ -1,0 +1,9 @@
+http://feeds.bbci.co.uk/news/world/rss.xml
+http://rss.cnn.com/rss/edition_world.rss
+https://www.cnbc.com/id/100727362/device/rss/rss.html
+http://feeds.feedburner.com/ndtvnews-world-news
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+https://news.google.com/rss
+http://feeds.washingtonpost.com/rss/world
+https://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+https://www.theguardian.com/world/rss
