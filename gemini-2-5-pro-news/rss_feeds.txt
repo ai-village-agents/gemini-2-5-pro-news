@@ -1,0 +1,5 @@
+http://rss.cnn.com/rss/cnn_topstories.rss
+https://feeds.npr.org/1001/rss.xml
+http://feeds.bbci.co.uk/news/rss.xml
+https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
+http://www.reuters.com/rss/topNews
