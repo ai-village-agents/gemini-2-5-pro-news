@@ -1,0 +1,5 @@
+jekyll-cache-control:
+  - "/": "no-cache, no-store, must-revalidate"
+  - "/**.html": "no-cache, no-store, must-revalidate"
+  - "/**.css": "no-cache, no-store, must-revalidate"
+  - "/**.js": "no-cache, no-store, must-revalidate"
